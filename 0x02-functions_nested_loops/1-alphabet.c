@@ -4,7 +4,8 @@
  * Description - print lowercase alphabet
  * Return: void.
  */
-void print_alphabet(void);
+void print_alphabet(void)
+
 {
 char alphabet[26] = "abcdefghijklmnopqrstuvwxyz";
 int i;
